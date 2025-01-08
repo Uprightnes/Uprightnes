@@ -1,8 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=uprightnes.uprightnes" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+It's+Me...+Uprightness!+👋&bg_color=000000" alt="Typing Animation" />
+    <a href="#" style="text-decoration: none; color: inherit;">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+It's+Me...+Uprightness!+👋&bg_color=000000" alt="Typing Animation" />
+    </a>
 </h1>
+
 
 
 
