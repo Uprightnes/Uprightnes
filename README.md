@@ -16,7 +16,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **END POLICE BRUTALITY REPORTING SYSTEM**
+ 🔭 I’m currently working on **POLICE BRUTALITY REPORTING SYSTEM**
  
  🌱 I’m currently learning **Flutter, Solidarity, AWS**
 
