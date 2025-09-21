@@ -42,7 +42,8 @@
   <h2>My Contributions </h2>
   <br>
   
-![snake gif](https://raw.githubusercontent.com/Uprightnes/Uprightnes/output/github-snake-dark.svg)
+<!--![snake gif](https://raw.githubusercontent.com/Uprightnes/Uprightnes/output/github-snake-dark.svg) -->
+![snake gif](https://cdn.jsdelivr.net/gh/Uprightnes/Uprightnes@output/github-snake-dark.svg)
 
 
   <br/>
