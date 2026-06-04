@@ -16,9 +16,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **SubTracker**
+ 🔭 I’m currently working on **Giftie**
  
- 🌱 I’m currently learning **Flutter, Solidarity, AWS**
+ 🌱 I’m currently learning **Flutter, React**
 
 💬 Ask me about **C#, Python, PHP, Web 3... or just anything**
 
